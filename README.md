@@ -7,7 +7,7 @@ Um aplicativo desenvolvido com Flutter que realiza conversões entre as moedas: 
 Para realizar as converões basta inserir o valor no campo de texto da moeda desejada, então todos os campos
 serão atualizados com os valores convertidos de acordo com o valor inserido.
 
-![Exemplo de conversão](https://github.com/Gabriel2718/Coinverter/blob/main/imagens/exemplo.png?raw=true)
+![Exemplo de conversão](https://github.com/Gabriel2718/Coinverter/blob/main/images/example.png?raw=true)
 
 ## Dependências Utilizadas
 
