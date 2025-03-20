@@ -165,10 +165,10 @@ class HomePageState extends State<HomePage> {
                           'Dólares', 'U\$ ', dolarController, _dolarChanged),
                       SizedBox(height: 30),
                       buildTextField(
-                          'Euros', 'U\$ ', euroController, _euroChanged),
+                          'Euros', '€  ', euroController, _euroChanged),
                       SizedBox(height: 30),
                       buildTextField(
-                          'Bitcoin', 'U\$ ', bitController, _bitChanged),
+                          'Bitcoin', '₿  ', bitController, _bitChanged),
                     ],
                   ),
                 );
