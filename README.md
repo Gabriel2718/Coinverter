@@ -9,7 +9,7 @@ serão atualizados com os valores convertidos de acordo com o valor inserido.
 
 ![Exemplo de conversão](https://github.com/Gabriel2718/Coinverter/blob/main/images/example.png)
 
-## Plugins Utilizados
+## Bibliotecas de Terceiros Utilizadas
 
 - flutter_lints: ^5.0.0
 - http: ^1.3.0
