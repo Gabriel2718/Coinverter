@@ -11,6 +11,6 @@ serão atualizados com os valores convertidos de acordo com o valor inserido.
 
 ## Bibliotecas de Terceiros Utilizadas
 
-- flutter_lints: ^5.0.0
-- http: ^1.3.0
-- flutter_launcher_icons: ^0.14.3
+- flutter_lints v5.0.0
+- http v1.3.0
+- flutter_launcher_icons v0.14.3
